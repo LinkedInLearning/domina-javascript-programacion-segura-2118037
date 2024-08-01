@@ -1,13 +1,12 @@
-# Master JavaScript: Secure programming
+# Domina JavaScript: Programación segura
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina JavaScript: Programación segura`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Este curso está diseñado para desarrolladores web y profesionales de la ciberseguridad que buscan mejorar la seguridad de sus aplicaciones JavaScript. A lo largo del curso, aprenderás a prevenir ataques XSS y CSRF, manejar la autenticación y autorización de manera segura, y proteger APIs RESTful. También descubrirás las mejores prácticas para manejar datos sensibles, evitar inyecciones de código y aplicar Content Security Policies (CSP). Otros temas incluyen la gestión correcta de permisos, la seguridad al usar bibliotecas de terceros, el aseguramiento de comunicaciones WebSocket y la ofuscación de código JavaScript.
 
 ## Instrucciones
 
